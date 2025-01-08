@@ -5,7 +5,16 @@
 
 
 @section('page-content')
-    <section>
-        INI DASHBOARD
+    <section class="w-full h-full bg-white shadow-xl p-4">
+
+
+
+        <table id="tabless">
+
+        </table>
+
+
+
+
     </section>
 @endsection
